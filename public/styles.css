@@ -1,0 +1,73 @@
+*{
+    font-family: Arial;
+    padding: 0;
+    margin: 0;
+    font-weight: 700;
+}
+.main-div{
+    width:500px;
+    padding: 24px;
+    background-color: #24232B;
+}
+
+.password{
+    font-size: 20px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.character-length{
+    margin-top:32px;
+    margin-bottom: 24px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #707070;
+}
+
+.Checkbox-div{
+    margin-bottom:12px;
+}
+
+.strength-div{
+    margin-top: 24px;
+    margin-bottom: 12px;
+    padding: 24px;
+    background-color: black;
+    color: #707070;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
+
+.color-white{
+    color: #ffffff !important;
+}
+
+.padding-zero{
+    padding: 0px !important;
+}
+
+.right-float{
+    float:right;
+}
+
+.strength-bar{
+    width:55px
+}
+
+.display-inline{
+    display: inline;
+}
+
+.letter-padding{
+    padding-right: 4px;
+}
+
+.generate-button{
+    background-color: #2A8B8B !important;
+    font-weight: 700 !important;
+    width: 100%;
+    font-size: 20px !important;
+    height: 60px;
+    border-radius: 10px !important;
+}
